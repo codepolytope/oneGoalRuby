@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task_name: MyString
+  date: 2017-06-09 17:07:14
+  milestone: MyString
+  goal: MyString
+  user_id: 
+
+two:
+  task_name: MyString
+  date: 2017-06-09 17:07:14
+  milestone: MyString
+  goal: MyString
+  user_id: 
